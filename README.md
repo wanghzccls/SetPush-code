@@ -37,5 +37,5 @@ bash run_script.sh
 
 ## Instructions:
 - The "datatset" directory (./dataset/) is used for storing the dataset file. 
-- The "query" directory is used for storing all the query sets. 
-- The "result" directory is used for storing all output files. 
+- The "query" directory (./query/) is used for storing all the query sets. 
+- The "result" directory (./result/) is used for storing all output files. 
